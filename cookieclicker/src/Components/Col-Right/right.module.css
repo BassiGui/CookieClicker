@@ -1,0 +1,21 @@
+.info{
+  color: white;
+  background: black;
+  opacity: .8;
+}
+
+.info p{
+  margin-bottom: 0;
+}
+
+.buttonAutoclick{
+  background-color: grey;
+  border: none;
+  width: 100%;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+.buttonAutoclick img{
+  max-width: 50px;
+}

@@ -1,0 +1,14 @@
+.App{
+  background-image: url('./Assets/bgBlue.jpg');
+}
+
+.panel-vertical{
+  width: 16px;
+  height: 100%;
+  background: url('./Assets/panelVertical.png') no-repeat top left;
+  
+  
+  top: 0;
+  bottom: 0px;
+  z-index: 100;
+}
